@@ -1,0 +1,23 @@
+{
+  "name": "hapi-request-cats",
+  "version": "0.1.0",
+  "description": "Hapi plugin that adds X-Status-Cat header to all responses, which contains the 'HTTP Status Cat' of the current status code.",
+  "author": "Alexandru Badiu <andu@ctrlz.ro>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/voidberb/hapi-status-cat"
+  },
+  "bugs": {
+    "url": "https://github.com/voidberb/hapi-status-cat/issues"
+  },
+  "keywords": [
+    "hapi",
+    "cats",
+    "response"
+  ],
+  "dependencies": {
+    "hapi": "^8.0.0"
+  },
+  "license": "MIT"
+}
