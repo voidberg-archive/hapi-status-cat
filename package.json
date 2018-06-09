@@ -17,7 +17,7 @@
     "response"
   ],
   "dependencies": {
-    "hapi": "^8.0.0"
+    "hapi": "^13.4.0"
   },
   "license": "MIT"
 }
