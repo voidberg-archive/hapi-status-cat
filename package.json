@@ -6,10 +6,10 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/voidberb/hapi-status-cat"
+    "url": "https://github.com/voidberg/hapi-status-cat"
   },
   "bugs": {
-    "url": "https://github.com/voidberb/hapi-status-cat/issues"
+    "url": "https://github.com/voidberg/hapi-status-cat/issues"
   },
   "keywords": [
     "hapi",
